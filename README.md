@@ -1,4 +1,4 @@
 # hello-world
 
-Hi!
+Hi !
 My name is Bartek;-) 
